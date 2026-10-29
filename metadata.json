@@ -1,0 +1,6 @@
+{
+  "name": "English Bingo Adventure – Vui Học Từ Vựng Tiếng Anh",
+  "description": "Trò chơi Bingo tương tác học từ vựng tiếng Anh vui nhộn dành cho học sinh tiểu học và giáo viên với âm thanh, hình ảnh và cơ chế phần thưởng tích cực.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
